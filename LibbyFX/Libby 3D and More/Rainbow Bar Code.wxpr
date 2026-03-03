@@ -1,0 +1,205 @@
+[ Wax generated project. Do not edit manually!! ]
+Format v2.1
+Workspace
+{
+	ShowGlobalSettingsInTimeline = 0
+	PreviewZoomValue = 0 1 0 0
+}
+Project
+{
+	UsingDummyHostMedia = 1
+	IsPreset = 1
+	Frames = 500 21
+	CellWidth & CellHeight = 2.226000 28.704348
+	Scroll = 0 0
+	Output mode = 0
+	Output frame range = 0 -1
+	Tracks = 2
+		1 1 0
+		0 1 0
+}
+Video
+{
+	Video file name = ..\..\..\..\..\..\Program Files (x86)\DebugMode\Wax 2.0\Presets\VTX Filters\VTX Mix Color\video.avi
+	Video file extension = AVI
+	Video file filter id = AVI
+	Sequence start = 0
+	Video parameters = 720 480 25.000000
+}
+AVI Video Compression
+{
+	0
+	
+}
+Audio
+{
+	Audio file name = ..\..\..\..\..\..\Program Files (x86)\DebugMode\Wax 2.0\Presets\VTX Filters\VTX Mix Color\audio.avi
+	Audio file extension = AVI
+	Audio file filter id = AVI
+}
+AVI Audio Compression
+{
+	0
+	
+}
+Clip
+{
+	Type = 4
+	Filename = * HostMedia1 *
+	Folder = /
+	Name = * HostMedia1 *.
+	Comment = .
+	Numbered sequence = 0
+}
+Element
+{
+	Type = 4
+	Enabled = 1
+	Expanded = 1
+	TrackPropertiesExpanded = 0
+	Parameters = 0 0 500 100 0 499
+	Filename = * HostMedia1 *
+	Stretch = 2
+	Use Alpha Channel = 1
+	Plugin
+	{
+		Type = 5
+		Enabled = 1
+		Expanded = 0
+		Name = Texture Generator
+		Number of Parameters = 25
+		Persistance
+		0 1 0 0.500000 0 0.000000 0 0.000000 
+		Octaves
+		0 1 0 2.000000 0 1.000000 0 1.000000 
+		Zoom
+		0 1 0 4.000000 0 0.000000 0 0.000000 
+		Offset X
+		0 1 0 2.010000 0 2.010000 0 2.010000 
+		Offset Y
+		0 1 0 2.040000 0 2.040000 0 2.040000 
+		Time Variance
+		0 1 0 0.000000 0 0.000000 0 0.000000 
+		Overwrite Source
+		0 1 0 1 
+		Color Levels
+		0 1 0 256.000000 0 0.000000 0 0.000000 
+		Palette Length
+		0 1 0 5.000000 0 3.000000 0 3.000000 
+		Color 1
+		0 1 0 FFFF0000 
+		Color 1 Pos
+		0 1 0 0.000000 0 0.000000 0 0.000000 
+		Color 2
+		0 1 0 FFFFFF00 
+		Color 2 Pos
+		0 1 0 0.225000 0 -0.775000 0 -0.775000 
+		Color 3
+		0 1 0 FF00FF00 
+		Color 3 Pos
+		0 1 0 0.571000 0 -0.429000 0 -0.429000 
+		Color 4
+		0 1 0 FF00FFFF 
+		Color 4 Pos
+		0 1 0 0.803000 0 -0.197000 0 -0.197000 
+		Color 5
+		0 1 0 FF0000FF 
+		Color 5 Pos
+		0 1 0 1.000000 0 0.000000 0 0.000000 
+		Post Processing
+		0 1 0 2 
+		Clamp Range
+		0 1 0 0.400000 0 0.000000 0 0.000000 
+		Sine Scale
+		0 1 0 1.500000 0 0.000000 0 0.000000 
+		Tileable
+		0 1 0 0 
+		Repeat in X
+		0 1 0 1.000000 0 0.000000 0 0.000000 
+		Repeat in Y
+		0 1 0 1000.000000 0 999.000000 0 999.000000 
+		PageExpandInfo = 1 0
+		ParamExpandInfo = 25 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+	}
+	Plugin
+	{
+		Type = 5
+		Enabled = 1
+		Expanded = 1
+		Name = Transform 3D
+		Number of Parameters = 12
+		Position X
+		0 1 0 -0.350000 0 -0.350000 0 -0.350000 
+		Position Y
+		0 1 0 0.000000 0 0.000000 0 0.000000 
+		Position Z
+		0 1 0 0.000000 0 0.000000 0 0.000000 
+		Scale X
+		0 1 0 1.000000 0 0.000000 0 0.000000 
+		Scale Y
+		0 1 0 1.000000 0 0.000000 0 0.000000 
+		Scale Z
+		0 1 0 1.000000 0 0.000000 0 0.000000 
+		Angle X
+		0 1 0 0.000000 0 0.000000 0 0.000000 
+		Angle Y
+		0 1 0 45.000000 0 45.000000 0 45.000000 
+		Angle Z
+		0 1 0 0.000000 0 0.000000 0 0.000000 
+		Pivot X
+		0 1 0 0.000000 0 0.000000 0 0.000000 
+		Pivot Y
+		0 1 0 0.000000 0 0.000000 0 0.000000 
+		Pivot Z
+		0 1 0 0.000000 0 0.000000 0 0.000000 
+		PageExpandInfo = 1 1
+		ParamExpandInfo = 12 0 0 0 0 0 0 0 0 0 0 0 0
+	}
+	Plugin
+	{
+		Type = 5
+		Enabled = 1
+		Expanded = 0
+		Name = Track Properties
+		Number of Parameters = 2
+		Opacity
+		0 1 0 100.000000 0 0.000000 0 0.000000 
+		Compositing Mode
+		0 1 0 0 
+		PageExpandInfo = 1 0
+		ParamExpandInfo = 2 0 0
+	}
+}
+Plugin
+{
+	Type = 5
+	Enabled = 1
+	Expanded = 0
+	Parameters = -1 0 499
+	Name = Global Settings
+		Number of Parameters = 11
+		Ambient Color
+		0 1 0 FF404040 
+		Smooth Shading
+		0 1 0 1 
+		Shadows
+		0 1 0 0 
+		View Mode
+		0 1 0 2 
+		Camera X
+		0 1 0 0.000000 0 0.000000 0 0.000000 
+		Camera Y
+		0 1 0 0.000000 0 0.000000 0 0.000000 
+		Camera Z
+		0 1 0 2.400000 0 0.000000 0 0.000000 
+		Look At X
+		0 1 0 0.000000 0 0.000000 0 0.000000 
+		Look At Y
+		0 1 0 0.000000 0 0.000000 0 0.000000 
+		Look At Z
+		0 1 0 0.000000 0 0.000000 0 0.000000 
+		Tumble Angle
+		0 1 0 0.000000 0 0.000000 0 0.000000 
+		PageExpandInfo = 2 0 0
+		ParamExpandInfo = 11 0 0 0 0 0 0 0 0 0 0 0
+}

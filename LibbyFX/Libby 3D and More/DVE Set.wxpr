@@ -1,0 +1,483 @@
+[ Wax generated project. Do not edit manually!! ]
+Format v2.1
+Workspace
+{
+	ShowGlobalSettingsInTimeline = 0
+	PreviewZoomValue = 0 1 0 0
+}
+Project
+{
+	UsingDummyHostMedia = 1
+	IsPreset = 1
+	Frames = 500 9
+	CellWidth & CellHeight = 2.226000 32.000000
+	Scroll = 0 0
+	Output mode = 0
+	Output frame range = 0 -1
+	Tracks = 5
+		1 1 0
+		1 1 0
+		1 1 0
+		1 1 0
+		0 1 0
+}
+Video
+{
+	Video file name = video.avi
+	Video file extension = AVI
+	Video file filter id = AVI
+	Sequence start = 0
+	Video parameters = 720 480 25.000000
+}
+AVI Video Compression
+{
+	0
+	
+}
+Audio
+{
+	Audio file name = audio.avi
+	Audio file extension = AVI
+	Audio file filter id = AVI
+}
+AVI Audio Compression
+{
+	0
+	
+}
+Clip
+{
+	Type = 4
+	Filename = * HostMedia1 *
+	Folder = /
+	Name = * HostMedia1 *.
+	Comment = .
+	Numbered sequence = 0
+}
+Element
+{
+	Type = 4
+	Enabled = 1
+	Expanded = 1
+	TrackPropertiesExpanded = 0
+	Parameters = 0 0 500 100 0 499
+	Filename = * HostMedia1 *
+	Stretch = 2
+	Use Alpha Channel = 1
+	Plugin
+	{
+		Type = 5
+		Enabled = 1
+		Expanded = 0
+		Name = Track Properties
+		Number of Parameters = 2
+		Opacity
+		0 1 0 100.000000 0 0.000000 0 0.000000 
+		Compositing Mode
+		0 1 0 4 
+		PageExpandInfo = 1 0
+		ParamExpandInfo = 2 0 0
+	}
+	Plugin
+	{
+		Type = 5
+		Enabled = 1
+		Expanded = 0
+		Name = Quick 3d
+		Number of Parameters = 16
+		Scalex
+		0 1 0 1.000000 0 0.000000 0 0.000000 
+		Scaley
+		0 1 0 1.000000 0 0.000000 0 0.000000 
+		Posx
+		0 1 0 0.000000 0 0.000000 0 0.000000 
+		Posy
+		0 1 0 0.000000 0 0.000000 0 0.000000 
+		Posz
+		0 1 0 0.000000 0 0.000000 0 0.000000 
+		Cropleft
+		0 1 0 0.000000 0 0.000000 0 0.000000 
+		Croptop
+		0 1 0 0.000000 0 0.000000 0 0.000000 
+		Cropright
+		0 1 0 0.000000 0 0.000000 0 0.000000 
+		Cropbottom
+		0 1 0 0.000000 0 0.000000 0 0.000000 
+		Rotatex
+		0 1 0 0.000000 0 0.000000 0 0.000000 
+		Rotatey
+		0 1 0 -180.000000 0 -180.000000 0 -180.000000 
+		Rotatez
+		0 1 0 0.000000 0 0.000000 0 0.000000 
+		Pivotx
+		0 1 0 0.000000 0 0.000000 0 0.000000 
+		Pivoty
+		0 1 0 0.000000 0 0.000000 0 0.000000 
+		Pivotz
+		0 1 0 0.000000 0 0.000000 0 0.000000 
+		Persp
+		0 1 0 0.300000 0 0.000000 0 0.000000 
+		PageExpandInfo = 1 0
+		ParamExpandInfo = 16 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+	}
+	Plugin
+	{
+		Type = 5
+		Enabled = 1
+		Expanded = 0
+		Name = Quick 3d
+		Number of Parameters = 16
+		Scalex
+		0 1 0 1.000000 0 0.000000 0 0.000000 
+		Scaley
+		0 1 0 1.000000 0 0.000000 0 0.000000 
+		Posx
+		0 1 0 0.000000 0 0.000000 0 0.000000 
+		Posy
+		0 1 0 0.000000 0 0.000000 0 0.000000 
+		Posz
+		0 1 0 0.000000 0 0.000000 0 0.000000 
+		Cropleft
+		0 1 0 0.000000 0 0.000000 0 0.000000 
+		Croptop
+		0 1 0 0.000000 0 0.000000 0 0.000000 
+		Cropright
+		0 1 0 0.000000 0 0.000000 0 0.000000 
+		Cropbottom
+		0 1 0 0.000000 0 0.000000 0 0.000000 
+		Rotatex
+		2 2 0 0.000000 0 0.000000 150 0.000000 499 360.000000 -148 360.000000 0 360.000000 
+		Rotatey
+		2 2 0 0.000000 0 0.000000 150 0.000000 499 -360.000000 -148 -360.000000 0 -360.000000 
+		Rotatez
+		0 1 0 0.000000 0 0.000000 0 0.000000 
+		Pivotx
+		0 1 0 0.000000 0 0.000000 0 0.000000 
+		Pivoty
+		0 1 0 0.000000 0 0.000000 0 0.000000 
+		Pivotz
+		0 1 0 0.000000 0 0.000000 0 0.000000 
+		Persp
+		0 1 0 0.300000 0 0.000000 0 0.000000 
+		PageExpandInfo = 1 0
+		ParamExpandInfo = 16 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+	}
+}
+Element
+{
+	Type = 4
+	Enabled = 1
+	Expanded = 0
+	TrackPropertiesExpanded = 0
+	Parameters = 1 0 500 100 0 499
+	Filename = * HostMedia1 *
+	Stretch = 2
+	Use Alpha Channel = 1
+	Plugin
+	{
+		Type = 5
+		Enabled = 1
+		Expanded = 1
+		Name = Track Properties
+		Number of Parameters = 2
+		Opacity
+		0 1 0 100.000000 0 0.000000 0 0.000000 
+		Compositing Mode
+		0 1 0 4 
+		PageExpandInfo = 1 0
+		ParamExpandInfo = 2 0 0
+	}
+	Plugin
+	{
+		Type = 5
+		Enabled = 1
+		Expanded = 0
+		Name = Quick 3d
+		Number of Parameters = 16
+		Scalex
+		0 1 0 1.000000 0 0.000000 0 0.000000 
+		Scaley
+		0 1 0 1.000000 0 0.000000 0 0.000000 
+		Posx
+		0 1 0 0.000000 0 0.000000 0 0.000000 
+		Posy
+		0 1 0 0.000000 0 0.000000 0 0.000000 
+		Posz
+		0 1 0 0.000000 0 0.000000 0 0.000000 
+		Cropleft
+		0 1 0 0.000000 0 0.000000 0 0.000000 
+		Croptop
+		0 1 0 0.000000 0 0.000000 0 0.000000 
+		Cropright
+		0 1 0 0.000000 0 0.000000 0 0.000000 
+		Cropbottom
+		0 1 0 0.000000 0 0.000000 0 0.000000 
+		Rotatex
+		0 1 0 -180.000000 0 -180.000000 0 -180.000000 
+		Rotatey
+		0 1 0 0.000000 0 0.000000 0 0.000000 
+		Rotatez
+		0 1 0 0.000000 0 0.000000 0 0.000000 
+		Pivotx
+		0 1 0 0.000000 0 0.000000 0 0.000000 
+		Pivoty
+		0 1 0 0.000000 0 0.000000 0 0.000000 
+		Pivotz
+		0 1 0 0.000000 0 0.000000 0 0.000000 
+		Persp
+		0 1 0 0.300000 0 0.000000 0 0.000000 
+		PageExpandInfo = 1 0
+		ParamExpandInfo = 16 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+	}
+	Plugin
+	{
+		Type = 5
+		Enabled = 1
+		Expanded = 0
+		Name = Quick 3d
+		Number of Parameters = 16
+		Scalex
+		0 1 0 1.000000 0 0.000000 0 0.000000 
+		Scaley
+		0 1 0 1.000000 0 0.000000 0 0.000000 
+		Posx
+		0 1 0 0.000000 0 0.000000 0 0.000000 
+		Posy
+		0 1 0 0.000000 0 0.000000 0 0.000000 
+		Posz
+		0 1 0 0.000000 0 0.000000 0 0.000000 
+		Cropleft
+		0 1 0 0.000000 0 0.000000 0 0.000000 
+		Croptop
+		0 1 0 0.000000 0 0.000000 0 0.000000 
+		Cropright
+		0 1 0 0.000000 0 0.000000 0 0.000000 
+		Cropbottom
+		0 1 0 0.000000 0 0.000000 0 0.000000 
+		Rotatex
+		0 1 0 0.000000 0 0.000000 0 0.000000 
+		Rotatey
+		2 2 0 0.000000 0 0.000000 150 0.000000 499 360.000000 -148 360.000000 0 360.000000 
+		Rotatez
+		2 2 0 0.000000 0 0.000000 150 0.000000 499 -360.000000 -148 -360.000000 0 -360.000000 
+		Pivotx
+		0 1 0 0.000000 0 0.000000 0 0.000000 
+		Pivoty
+		0 1 0 0.000000 0 0.000000 0 0.000000 
+		Pivotz
+		0 1 0 0.000000 0 0.000000 0 0.000000 
+		Persp
+		0 1 0 0.300000 0 0.000000 0 0.000000 
+		PageExpandInfo = 1 0
+		ParamExpandInfo = 16 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+	}
+}
+Element
+{
+	Type = 4
+	Enabled = 1
+	Expanded = 0
+	TrackPropertiesExpanded = 0
+	Parameters = 2 0 500 100 0 499
+	Filename = * HostMedia1 *
+	Stretch = 2
+	Use Alpha Channel = 1
+	Plugin
+	{
+		Type = 5
+		Enabled = 1
+		Expanded = 1
+		Name = Track Properties
+		Number of Parameters = 2
+		Opacity
+		0 1 0 100.000000 0 0.000000 0 0.000000 
+		Compositing Mode
+		0 1 0 4 
+		PageExpandInfo = 1 0
+		ParamExpandInfo = 2 0 0
+	}
+	Plugin
+	{
+		Type = 5
+		Enabled = 1
+		Expanded = 0
+		Name = Quick 3d
+		Number of Parameters = 16
+		Scalex
+		0 1 0 1.000000 0 0.000000 0 0.000000 
+		Scaley
+		0 1 0 1.000000 0 0.000000 0 0.000000 
+		Posx
+		0 1 0 0.000000 0 0.000000 0 0.000000 
+		Posy
+		0 1 0 0.000000 0 0.000000 0 0.000000 
+		Posz
+		0 1 0 0.000000 0 0.000000 0 0.000000 
+		Cropleft
+		0 1 0 0.000000 0 0.000000 0 0.000000 
+		Croptop
+		0 1 0 0.000000 0 0.000000 0 0.000000 
+		Cropright
+		0 1 0 0.000000 0 0.000000 0 0.000000 
+		Cropbottom
+		0 1 0 0.000000 0 0.000000 0 0.000000 
+		Rotatex
+		0 1 0 0.000000 0 0.000000 0 0.000000 
+		Rotatey
+		0 1 0 0.000000 0 0.000000 0 0.000000 
+		Rotatez
+		0 1 0 180.000000 0 180.000000 0 180.000000 
+		Pivotx
+		0 1 0 0.000000 0 0.000000 0 0.000000 
+		Pivoty
+		0 1 0 0.000000 0 0.000000 0 0.000000 
+		Pivotz
+		0 1 0 0.000000 0 0.000000 0 0.000000 
+		Persp
+		0 1 0 0.300000 0 0.000000 0 0.000000 
+		PageExpandInfo = 1 0
+		ParamExpandInfo = 16 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+	}
+	Plugin
+	{
+		Type = 5
+		Enabled = 1
+		Expanded = 0
+		Name = Quick 3d
+		Number of Parameters = 16
+		Scalex
+		0 1 0 1.000000 0 0.000000 0 0.000000 
+		Scaley
+		0 1 0 1.000000 0 0.000000 0 0.000000 
+		Posx
+		0 1 0 0.000000 0 0.000000 0 0.000000 
+		Posy
+		0 1 0 0.000000 0 0.000000 0 0.000000 
+		Posz
+		0 1 0 0.000000 0 0.000000 0 0.000000 
+		Cropleft
+		0 1 0 0.000000 0 0.000000 0 0.000000 
+		Croptop
+		0 1 0 0.000000 0 0.000000 0 0.000000 
+		Cropright
+		0 1 0 0.000000 0 0.000000 0 0.000000 
+		Cropbottom
+		0 1 0 0.000000 0 0.000000 0 0.000000 
+		Rotatex
+		2 2 0 0.000000 0 0.000000 150 0.000000 499 360.000000 -148 360.000000 0 360.000000 
+		Rotatey
+		0 1 0 0.000000 0 0.000000 0 0.000000 
+		Rotatez
+		2 2 0 0.000000 0 0.000000 150 0.000000 499 -360.000000 -148 -360.000000 0 -360.000000 
+		Pivotx
+		0 1 0 0.000000 0 0.000000 0 0.000000 
+		Pivoty
+		0 1 0 0.000000 0 0.000000 0 0.000000 
+		Pivotz
+		0 1 0 0.000000 0 0.000000 0 0.000000 
+		Persp
+		0 1 0 0.300000 0 0.000000 0 0.000000 
+		PageExpandInfo = 1 0
+		ParamExpandInfo = 16 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+	}
+}
+Element
+{
+	Type = 4
+	Enabled = 1
+	Expanded = 0
+	TrackPropertiesExpanded = 0
+	Parameters = 3 0 500 100 0 499
+	Filename = * HostMedia1 *
+	Stretch = 2
+	Use Alpha Channel = 1
+	Plugin
+	{
+		Type = 5
+		Enabled = 1
+		Expanded = 0
+		Name = Track Properties
+		Number of Parameters = 2
+		Opacity
+		0 1 0 100.000000 0 0.000000 0 0.000000 
+		Compositing Mode
+		0 1 0 0 
+		PageExpandInfo = 1 0
+		ParamExpandInfo = 2 0 0
+	}
+	Plugin
+	{
+		Type = 5
+		Enabled = 1
+		Expanded = 0
+		Name = Quick 3d
+		Number of Parameters = 16
+		Scalex
+		0 1 0 1.000000 0 0.000000 0 0.000000 
+		Scaley
+		0 1 0 1.000000 0 0.000000 0 0.000000 
+		Posx
+		0 1 0 0.000000 0 0.000000 0 0.000000 
+		Posy
+		0 1 0 0.000000 0 0.000000 0 0.000000 
+		Posz
+		0 1 0 0.000000 0 0.000000 0 0.000000 
+		Cropleft
+		0 1 0 0.000000 0 0.000000 0 0.000000 
+		Croptop
+		0 1 0 0.000000 0 0.000000 0 0.000000 
+		Cropright
+		0 1 0 0.000000 0 0.000000 0 0.000000 
+		Cropbottom
+		0 1 0 0.000000 0 0.000000 0 0.000000 
+		Rotatex
+		2 2 0 0.000000 0 0.000000 150 0.000000 499 -360.000000 -148 -360.000000 0 -360.000000 
+		Rotatey
+		2 2 0 0.000000 0 0.000000 150 0.000000 499 360.000000 -148 360.000000 0 360.000000 
+		Rotatez
+		2 2 0 0.000000 0 0.000000 150 0.000000 499 360.000000 -148 360.000000 0 360.000000 
+		Pivotx
+		0 1 0 0.000000 0 0.000000 0 0.000000 
+		Pivoty
+		0 1 0 0.000000 0 0.000000 0 0.000000 
+		Pivotz
+		0 1 0 0.000000 0 0.000000 0 0.000000 
+		Persp
+		0 1 0 0.300000 0 0.000000 0 0.000000 
+		PageExpandInfo = 1 0
+		ParamExpandInfo = 16 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+	}
+}
+Plugin
+{
+	Type = 5
+	Enabled = 1
+	Expanded = 0
+	Parameters = -1 0 499
+	Name = Global Settings
+		Number of Parameters = 11
+		Ambient Color
+		0 1 0 FF404040 
+		Smooth Shading
+		0 1 0 1 
+		Shadows
+		0 1 0 0 
+		View Mode
+		0 1 0 2 
+		Camera X
+		0 1 0 0.000000 0 0.000000 0 0.000000 
+		Camera Y
+		0 1 0 0.000000 0 0.000000 0 0.000000 
+		Camera Z
+		0 1 0 2.400000 0 0.000000 0 0.000000 
+		Look At X
+		0 1 0 0.000000 0 0.000000 0 0.000000 
+		Look At Y
+		0 1 0 0.000000 0 0.000000 0 0.000000 
+		Look At Z
+		0 1 0 0.000000 0 0.000000 0 0.000000 
+		Tumble Angle
+		0 1 0 0.000000 0 0.000000 0 0.000000 
+		PageExpandInfo = 2 0 0
+		ParamExpandInfo = 11 0 0 0 0 0 0 0 0 0 0 0
+}

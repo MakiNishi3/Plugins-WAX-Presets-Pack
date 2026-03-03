@@ -1,0 +1,249 @@
+[ Wax generated project. Do not edit manually!! ]
+Format v2.1
+Workspace
+{
+	ShowGlobalSettingsInTimeline = 0
+	PreviewZoomValue = 0 1 0 0
+}
+Project
+{
+	UsingDummyHostMedia = 1
+	IsPreset = 1
+	Frames = 500 15
+	CellWidth & CellHeight = 2.226000 32.000000
+	Scroll = 0 0
+	Output mode = 0
+	Output frame range = 0 -1
+	Tracks = 2
+		1 1 0
+		0 1 0
+}
+Video
+{
+	Video file name = video.avi
+	Video file extension = AVI
+	Video file filter id = AVI
+	Sequence start = 0
+	Video parameters = 720 480 25.000000
+}
+AVI Video Compression
+{
+	0
+	
+}
+Audio
+{
+	Audio file name = audio.avi
+	Audio file extension = AVI
+	Audio file filter id = AVI
+}
+AVI Audio Compression
+{
+	0
+	
+}
+Clip
+{
+	Type = 4
+	Filename = * HostMedia1 *
+	Folder = /
+	Name = * HostMedia1 *.
+	Comment = .
+	Numbered sequence = 0
+}
+Element
+{
+	Type = 4
+	Enabled = 1
+	Expanded = 1
+	TrackPropertiesExpanded = 0
+	Parameters = 0 0 500 100 0 499
+	Filename = * HostMedia1 *
+	Stretch = 2
+	Use Alpha Channel = 1
+	Plugin
+	{
+		Type = 5
+		Enabled = 1
+		Expanded = 0
+		Name = Track Properties
+		Number of Parameters = 2
+		Opacity
+		0 1 0 100.000000 0 0.000000 0 0.000000 
+		Compositing Mode
+		0 1 0 0 
+		PageExpandInfo = 1 0
+		ParamExpandInfo = 2 0 0
+	}
+	Plugin
+	{
+		Type = 5
+		Enabled = 1
+		Expanded = 1
+		Name = Transform 3D
+		Number of Parameters = 12
+		Position X
+		2 2 0 -1.874000 0 -1.874000 75 -1.874000 250 0.000000 -75 0.000000 0 0.000000 
+		Position Y
+		0 1 0 0.000000 0 0.000000 0 0.000000 
+		Position Z
+		2 2 0 0.824000 0 0.824000 75 0.824000 250 0.000000 -75 0.000000 0 0.000000 
+		Scale X
+		0 1 0 1.000000 0 0.000000 0 0.000000 
+		Scale Y
+		0 1 0 1.000000 0 0.000000 0 0.000000 
+		Scale Z
+		0 1 0 1.000000 0 0.000000 0 0.000000 
+		Angle X
+		2 2 250 0.000000 0 0.000000 46 0.000000 400 -21.833000 -44 -21.833000 0 -21.833000 
+		Angle Y
+		2 2 250 32.892000 0 32.892000 46 32.892000 400 -17.365000 -44 -17.365000 0 -17.365000 
+		Angle Z
+		0 1 0 0.000000 0 0.000000 0 0.000000 
+		Pivot X
+		0 1 0 0.000000 0 0.000000 0 0.000000 
+		Pivot Y
+		0 1 0 0.000000 0 0.000000 0 0.000000 
+		Pivot Z
+		0 1 0 0.000000 0 0.000000 0 0.000000 
+		PageExpandInfo = 1 0
+		ParamExpandInfo = 12 0 0 0 0 0 0 0 0 0 0 0 0
+	}
+	Plugin
+	{
+		Type = 5
+		Enabled = 1
+		Expanded = 1
+		Name = Light 3D
+		Number of Parameters = 14
+		Position X
+		0 1 0 5.525000 0 5.525000 0 5.525000 
+		Position Y
+		0 1 0 11.000000 0 11.000000 0 11.000000 
+		Position Z
+		0 1 0 -4.005000 0 -9.005000 0 -9.005000 
+		Targetted
+		0 1 0 0 
+		Target X
+		0 1 0 0.000000 0 0.000000 0 0.000000 
+		Target Y
+		0 1 0 0.000000 0 0.000000 0 0.000000 
+		Target Z
+		0 1 0 0.000000 0 0.000000 0 0.000000 
+		Angle
+		0 1 0 90.000000 0 0.000000 0 0.000000 
+		Focus
+		0 1 0 0.050000 0 0.000000 0 0.000000 
+		Linear Attenuation
+		0 1 0 0.000000 0 0.000000 0 0.000000 
+		Quadratic Attenuation
+		0 1 0 0.000000 0 0.000000 0 0.000000 
+		Ambient
+		0 1 0 FFFFFFFF 
+		Diffuse
+		0 1 0 0.500000 0 0.000000 0 0.000000 
+		Specular
+		0 1 0 0.500000 0 0.000000 0 0.000000 
+		PageExpandInfo = 3 0 0 1
+		ParamExpandInfo = 14 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+	}
+	Plugin
+	{
+		Type = 5
+		Enabled = 1
+		Expanded = 1
+		Name = Text 3D
+		Number of Parameters = 28
+		Text
+		0 1 0 32 41 72 69 61 6c 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 41 557 3f 31 0 0 aa 0 1 5c 3f 6e 0 0 aa 0 1 31 3f 35 0 0 aa 0 1 66 3f 7b 0 0 aa 0 1 74 3f 6c 0 0 aa 0 1 66 3f 69 0 0 aa 0 1 61 3f 73 0 0 aa 0 1 72 3f 61 0 0 aa 0 1 a 3f 76 0 0 aa 0 1 6e 3f 34 0 0 aa 0 1 70 3f 72 0 0 aa 0 1 67 3f 30 0 0 aa 0 1 66 3f 31 0 0 aa 0 1 70 3f 65 0 0 aa 0 1 72 3f 20 0 0 aa 0 1 5c 3f 30 0 0 aa 0 1 61 3f 20 0 0 aa 0 1 79 3f 0 0 0 aa 0 1 0 3f 0 0 0 aa 0 1 0 3f 4a 0 0 aa 0 1 0 3f 0 0 0 aa 0 1 0 3f 0 0 0 aa 0 1 0 d ff 0 0 aa 0 1 ff a ff 0 0 aa 0 1 0 3f ef 0 0 aa 0 1 0 3f f8 0 0 aa 0 1 76 3f 0 0 0 aa 0 1 0 3f 0 0 0 aa 0 1 0 3f 0 0 0 aa 0 1 ff 3f ff 0 0 aa 0 1 ff 3f 19 0 0 aa 0 1 0 3f 0 0 0 aa 0 1 3 3f c7 0 0 aa 0 1 0 3f 0 0 0 aa 0 1 0 3f 0 0 0 aa 0 1 0 3f ff 0 0 aa 0 1 ff 3f ff 0 0 aa 0 1 0 3f 0 0 0 aa 0 1 0 3f f8 0 0 aa 0 1 76 3f 0 0 0 aa 0 1 0 2f 0 0 0 aa 0 1 0 7b 5c 72 74 66 31 5c 61 6e 73 69 5c 61 6e 73 69 63 70 67 31 32 35 32 5c 64 65 66 66 30 7b 5c 66 6f 6e 74 74 62 6c 7b 5c 66 30 5c 66 6e 69 6c 5c 66 63 68 61 72 73 65 74 32 33 38 7b 5c 2a 5c 66 6e 61 6d 65 20 41 72 69 61 6c 3b 7d 41 72 69 61 6c 20 43 45 3b 7d 7b 5c 66 31 5c 66 6e 69 6c 5c 66 63 68 61 72 73 65 74 30 20 41 72 69 61 6c 3b 7d 7d d a 5c 76 69 65 77 6b 69 6e 64 34 5c 75 63 31 5c 70 61 72 64 5c 6c 61 6e 67 31 30 34 38 5c 62 5c 66 30 5c 66 73 31 37 20 3f 3f 3f 3f 3f 3f 3f 3f 3f 3f 3f 3f 3f 3f 3f 3f 3f 3f 3f 3f 3f 3f d a 5c 70 61 72 20 3f 3f 3f 3f 3f 3f 3f 3f 3f 3f 3f 3f 3f 3f 3f 3f 2f 5c 6c 61 6e 67 31 30 33 33 5c 62 30 5c 66 31 20 d a 5c 70 61 72 20 7d d a 0 0 
+		Extrude Length
+		0 1 0 0.436000 0 0.036000 0 0.036000 
+		Bevel Size
+		0 1 0 0.010000 0 0.010000 0 0.010000 
+		Bevel Faces
+		0 1 0 1.000000 0 0.000000 0 0.000000 
+		Use Media
+		0 1 0 0 
+		Select Media
+		0 1 0 ffffffff 
+		Ambient
+		0 1 0 FF00FF00 
+		Diffuse
+		0 1 0 0.000000 0 0.000000 0 0.000000 
+		Specular
+		0 1 0 1.000000 0 0.000000 0 0.000000 
+		Shininess
+		0 1 0 2.000000 0 0.000000 0 0.000000 
+		Use Media
+		0 1 0 0 
+		Select Media
+		0 1 0 ffffffff 
+		Ambient
+		0 1 0 FF0000FF 
+		Diffuse
+		0 1 0 0.000000 0 0.000000 0 0.000000 
+		Specular
+		0 1 0 1.000000 0 0.000000 0 0.000000 
+		Shininess
+		0 1 0 2.000000 0 0.000000 0 0.000000 
+		Use Media
+		0 1 0 0 
+		Select Media
+		0 1 0 ffffffff 
+		Ambient
+		0 1 0 FF008000 
+		Diffuse
+		0 1 0 0.000000 0 0.000000 0 0.000000 
+		Specular
+		0 1 0 1.000000 0 0.000000 0 0.000000 
+		Shininess
+		0 1 0 2.000000 0 0.000000 0 0.000000 
+		Use Media
+		0 1 0 0 
+		Select Media
+		0 1 0 ffffffff 
+		Ambient
+		0 1 0 FF008000 
+		Diffuse
+		0 1 0 0.000000 0 0.000000 0 0.000000 
+		Specular
+		0 1 0 1.000000 0 0.000000 0 0.000000 
+		Shininess
+		0 1 0 2.000000 0 0.000000 0 0.000000 
+		PageExpandInfo = 5 0 1 1 1 1
+		ParamExpandInfo = 28 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+	}
+}
+Plugin
+{
+	Type = 5
+	Enabled = 1
+	Expanded = 0
+	Parameters = -1 0 499
+	Name = Global Settings
+		Number of Parameters = 11
+		Ambient Color
+		0 1 0 FF404040 
+		Smooth Shading
+		0 1 0 1 
+		Shadows
+		0 1 0 0 
+		View Mode
+		0 1 0 2 
+		Camera X
+		0 1 0 0.000000 0 0.000000 0 0.000000 
+		Camera Y
+		0 1 0 0.000000 0 0.000000 0 0.000000 
+		Camera Z
+		0 1 0 2.400000 0 0.000000 0 0.000000 
+		Look At X
+		0 1 0 0.000000 0 0.000000 0 0.000000 
+		Look At Y
+		0 1 0 0.000000 0 0.000000 0 0.000000 
+		Look At Z
+		0 1 0 0.000000 0 0.000000 0 0.000000 
+		Tumble Angle
+		0 1 0 0.000000 0 0.000000 0 0.000000 
+		PageExpandInfo = 2 0 0
+		ParamExpandInfo = 11 0 0 0 0 0 0 0 0 0 0 0
+}

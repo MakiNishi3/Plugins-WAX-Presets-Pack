@@ -1,0 +1,241 @@
+[ Wax generated project. Do not edit manually!! ]
+Format v2.1
+Workspace
+{
+	ShowGlobalSettingsInTimeline = 0
+	PreviewZoomValue = 0 1 0 0
+}
+Project
+{
+	UsingDummyHostMedia = 1
+	IsPreset = 1
+	Frames = 500 85
+	CellWidth & CellHeight = 2.226000 28.704348
+	Scroll = 0 109
+	Output mode = 0
+	Output frame range = 0 -1
+	Tracks = 2
+		1 1 0
+		0 1 0
+}
+Video
+{
+	Video file name = ..\..\..\..\..\..\Program Files (x86)\DebugMode\Wax 2.0\Presets\VTX Filters\VTX Mix Color\video.avi
+	Video file extension = AVI
+	Video file filter id = AVI
+	Sequence start = 0
+	Video parameters = 720 480 25.000000
+}
+AVI Video Compression
+{
+	0
+	
+}
+Audio
+{
+	Audio file name = ..\..\..\..\..\..\Program Files (x86)\DebugMode\Wax 2.0\Presets\VTX Filters\VTX Mix Color\audio.avi
+	Audio file extension = AVI
+	Audio file filter id = AVI
+}
+AVI Audio Compression
+{
+	0
+	
+}
+Clip
+{
+	Type = 4
+	Filename = * HostMedia1 *
+	Folder = /
+	Name = * HostMedia1 *.
+	Comment = .
+	Numbered sequence = 0
+}
+Element
+{
+	Type = 4
+	Enabled = 1
+	Expanded = 1
+	TrackPropertiesExpanded = 0
+	Parameters = 0 0 500 100 0 499
+	Filename = * HostMedia1 *
+	Stretch = 2
+	Use Alpha Channel = 1
+	Plugin
+	{
+		Type = 5
+		Enabled = 1
+		Expanded = 0
+		Name = Track Properties
+		Number of Parameters = 2
+		Opacity
+		0 1 0 100.000000 0 0.000000 0 0.000000 
+		Compositing Mode
+		0 1 0 0 
+		PageExpandInfo = 1 0
+		ParamExpandInfo = 2 0 0
+	}
+	Plugin
+	{
+		Type = 5
+		Enabled = 1
+		Expanded = 0
+		Name = Transform 3D
+		Number of Parameters = 12
+		Position X
+		0 1 0 0.000000 0 0.000000 0 0.000000 
+		Position Y
+		0 1 0 0.000000 0 0.000000 0 0.000000 
+		Position Z
+		0 1 0 0.000000 0 0.000000 0 0.000000 
+		Scale X
+		0 1 0 1.000000 0 0.000000 0 0.000000 
+		Scale Y
+		0 1 0 1.000000 0 0.000000 0 0.000000 
+		Scale Z
+		0 1 0 1.000000 0 0.000000 0 0.000000 
+		Angle X
+		1 2 0 0.000000 0 0.000000 0 0.000000 499 360.200000 0 360.200000 0 360.200000 
+		Angle Y
+		1 2 0 0.000000 0 0.000000 0 0.000000 499 360.000000 0 360.000000 0 360.000000 
+		Angle Z
+		1 2 0 0.000000 0 0.000000 0 0.000000 499 360.000000 0 360.000000 0 360.000000 
+		Pivot X
+		0 1 0 0.000000 0 0.000000 0 0.000000 
+		Pivot Y
+		0 1 0 0.000000 0 0.000000 0 0.000000 
+		Pivot Z
+		0 1 0 0.000000 0 0.000000 0 0.000000 
+		PageExpandInfo = 1 0
+		ParamExpandInfo = 12 0 0 0 0 0 0 0 0 0 0 0 0
+	}
+	Plugin
+	{
+		Type = 5
+		Enabled = 1
+		Expanded = 1
+		Name = Particles
+		Number of Parameters = 43
+		Use Media
+		0 1 0 1 
+		Select Media
+		0 1 0 ffffffff 
+		Blend
+		0 1 0 1 
+		Time
+		0 1 0 0.000000 0 0.000000 0 0.000000 
+		Linear Colors
+		0 1 0 0 
+		Max Particles
+		0 1 0 50000.000000 0 36000.000000 0 36000.000000 
+		Particles/sec
+		0 1 0 100.000000 0 -2900.000000 0 -2900.000000 
+		Variance
+		0 1 0 0.000000 0 0.000000 0 0.000000 
+		Min Color
+		0 1 0 00FFFFFF 
+		Min Color Alpha
+		0 1 0 1.000000 0 0.000000 0 0.000000 
+		Max Color
+		0 1 0 00FFFFFF 
+		Max Color Alpha
+		0 1 0 1.000000 0 0.000000 0 0.000000 
+		Min Size
+		0 1 0 5.000000 0 0.000000 0 0.000000 
+		Max Size
+		0 1 0 20.000000 0 0.000000 0 0.000000 
+		Min Age (sec)
+		0 1 0 0.500000 0 0.000000 0 0.000000 
+		Max Age (sec)
+		0 1 0 3.500000 0 0.000000 0 0.000000 
+		Min Color
+		0 1 0 00FFFFFF 
+		Min Color Alpha
+		0 1 0 0.000000 0 0.000000 0 0.000000 
+		Max Color
+		0 1 0 00FF8000 
+		Max Color Alpha
+		0 1 0 0.000000 0 0.000000 0 0.000000 
+		Min Size
+		0 1 0 0.060000 0 0.000000 0 0.000000 
+		Max Size
+		0 1 0 0.120000 0 0.000000 0 0.000000 
+		Position X
+		0 1 0 0.000000 0 0.000000 0 0.000000 
+		Position Y
+		0 1 0 0.000000 0 0.000000 0 0.000000 
+		Position Z
+		0 1 0 0.000000 0 0.000000 0 0.000000 
+		Radius X
+		0 1 0 2.000000 0 1.500000 0 1.500000 
+		Radius Y
+		0 1 0 7.500000 0 7.500000 0 7.500000 
+		Radius Z
+		0 1 0 1.000000 0 0.800000 0 0.800000 
+		Dir X
+		0 1 0 0.000000 0 0.000000 0 0.000000 
+		Dir Y
+		0 1 0 1.000000 0 0.000000 0 0.000000 
+		Dir Z
+		0 1 0 0.000000 0 0.000000 0 0.000000 
+		Dir Variance  X
+		0 1 0 0.080000 0 0.000000 0 0.000000 
+		Dir Variance  Y
+		0 1 0 0.500000 0 0.000000 0 0.000000 
+		Dir Variance  Z
+		0 1 0 0.080000 0 0.000000 0 0.000000 
+		Min Velocity
+		0 1 0 0.200000 0 0.000000 0 0.000000 
+		Max Velocity
+		0 1 0 0.300000 0 0.000000 0 0.000000 
+		Acceleration  X
+		0 1 0 0.000000 0 0.000000 0 0.000000 
+		Acceleration  Y
+		0 1 0 0.300000 0 0.000000 0 0.000000 
+		Acceleration  Z
+		0 1 0 0.000000 0 0.000000 0 0.000000 
+		Min Acceleration
+		0 1 0 0.300000 0 0.000000 0 0.000000 
+		Max Acceleration
+		0 1 0 0.400000 0 0.000000 0 0.000000 
+		Min Rotate
+		0 1 0 0.000000 0 0.000000 0 0.000000 
+		Max Rotate
+		0 1 0 0.000000 0 0.000000 0 0.000000 
+		PageExpandInfo = 4 0 1 0 0
+		ParamExpandInfo = 43 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+	}
+}
+Plugin
+{
+	Type = 5
+	Enabled = 1
+	Expanded = 0
+	Parameters = -1 0 499
+	Name = Global Settings
+		Number of Parameters = 11
+		Ambient Color
+		0 1 0 FF404040 
+		Smooth Shading
+		0 1 0 1 
+		Shadows
+		0 1 0 0 
+		View Mode
+		0 1 0 2 
+		Camera X
+		0 1 0 0.000000 0 0.000000 0 0.000000 
+		Camera Y
+		0 1 0 0.000000 0 0.000000 0 0.000000 
+		Camera Z
+		0 1 0 2.400000 0 0.000000 0 0.000000 
+		Look At X
+		0 1 0 0.000000 0 0.000000 0 0.000000 
+		Look At Y
+		0 1 0 0.000000 0 0.000000 0 0.000000 
+		Look At Z
+		0 1 0 0.000000 0 0.000000 0 0.000000 
+		Tumble Angle
+		0 1 0 0.000000 0 0.000000 0 0.000000 
+		PageExpandInfo = 2 0 0
+		ParamExpandInfo = 11 0 0 0 0 0 0 0 0 0 0 0
+}

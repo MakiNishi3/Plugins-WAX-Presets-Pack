@@ -1,0 +1,111 @@
+[ Wax generated project. Do not edit manually!! ]
+Format v2.1
+Workspace
+{
+	ShowGlobalSettingsInTimeline = 1
+	PreviewZoomValue = 0 1 0 0
+}
+Project
+{
+	UsingDummyHostMedia = 1
+	IsPreset = 1
+	Frames = 500 0
+	CellWidth & CellHeight = 2.226000 28.704348
+	Scroll = 0 0
+	Output mode = 0
+	Output frame range = 8 501
+	Tracks = 2
+		1 1 0
+		0 1 0
+}
+Video
+{
+	Video file name = ..\..\..\..\..\..\Program Files (x86)\DebugMode\Wax 2.0\Presets\VTX Filters\VTX Mix Color\video.avi
+	Video file extension = AVI
+	Video file filter id = AVI
+	Sequence start = 0
+	Video parameters = 720 480 25.000000
+}
+AVI Video Compression
+{
+	0
+	
+}
+Audio
+{
+	Audio file name = ..\..\..\..\..\..\Program Files (x86)\DebugMode\Wax 2.0\Presets\VTX Filters\VTX Mix Color\audio.avi
+	Audio file extension = AVI
+	Audio file filter id = AVI
+}
+AVI Audio Compression
+{
+	0
+	
+}
+Clip
+{
+	Type = 4
+	Filename = * HostMedia1 *
+	Folder = /
+	Name = * HostMedia1 *.
+	Comment = .
+	Numbered sequence = 0
+}
+Element
+{
+	Type = 4
+	Enabled = 1
+	Expanded = 1
+	TrackPropertiesExpanded = 1
+	Parameters = 0 0 500 100 0 499
+	Filename = * HostMedia1 *
+	Stretch = 2
+	Use Alpha Channel = 1
+	Plugin
+	{
+		Type = 5
+		Enabled = 1
+		Expanded = 1
+		Name = Track Properties
+		Number of Parameters = 2
+		Opacity
+		0 1 0 100.000000 0 0.000000 0 0.000000 
+		Compositing Mode
+		0 1 0 0 
+		PageExpandInfo = 1 0
+		ParamExpandInfo = 2 0 0
+	}
+}
+Plugin
+{
+	Type = 5
+	Enabled = 1
+	Expanded = 0
+	Parameters = -1 0 499
+	Name = Global Settings
+		Number of Parameters = 11
+		Ambient Color
+		0 1 0 FF404040 
+		Smooth Shading
+		0 1 0 1 
+		Shadows
+		0 1 0 0 
+		View Mode
+		0 1 0 2 
+		Camera X
+		0 1 0 0.000000 0 0.000000 0 0.000000 
+		Camera Y
+		0 1 0 0.000000 0 0.000000 0 0.000000 
+		Camera Z
+		0 1 0 2.400000 0 0.000000 0 0.000000 
+		Look At X
+		0 1 0 0.000000 0 0.000000 0 0.000000 
+		Look At Y
+		0 1 0 0.000000 0 0.000000 0 0.000000 
+		Look At Z
+		0 1 0 0.000000 0 0.000000 0 0.000000 
+		Tumble Angle
+		0 1 0 0.000000 0 0.000000 0 0.000000 
+		PageExpandInfo = 2 0 0
+		ParamExpandInfo = 11 0 0 0 0 0 0 0 0 0 0 0
+}
